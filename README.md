@@ -49,4 +49,4 @@ The MobileNetV2 transfer learning model outperformed the custom CNN model and ac
 
 ## Author
 
-Rawan
+Rawan AL Harmali 
